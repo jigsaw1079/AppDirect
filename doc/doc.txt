@@ -1,0 +1,5 @@
+OAUTH CONFIGURATION
+OAuth Consumer Key 
+appdirecttest-75775
+OAuth Consumer Secret 
+KaZhNS73DnN3Pu6i
